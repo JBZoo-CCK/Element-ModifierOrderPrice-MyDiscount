@@ -5,6 +5,7 @@ Example of modifier for order price (JBZoo CCK v2.2.0+)
 Скидка сработает только если сумма всех товаров в корзине достигла (или больше) значения из настроек.
 
 Чтобы установить элемент, нужно распаковать его в папку
+
 `<SITE_ROOT>/media / zoo / applications / jbuniversal / cart-elements / modifierorderprice`
 
 Скидку можно указывать как в процентах, например "20%" или определенным числом "1000rub".
